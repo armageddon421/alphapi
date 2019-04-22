@@ -1,7 +1,7 @@
 
 [LICK]
-apikey=12345
-prefix=https://ora2.tutschonwieder.net:8443/apex/tensai-dev/v1
+apikey=49366A72614254456846596B61334B6C70572F5943492F706D59593D
+prefix=https://ora5.tutschonwieder.net/ords/lick_prod/v1
 buy=/put/sellproduct/{APIKEY}/1/{SCHACHTID}/1
 empty=/put/schachtleer/{APIKEY}/1/{SCHACHTID}
 query=/get/fuellstand/1/{SCHACHTID}
